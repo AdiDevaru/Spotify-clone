@@ -90,7 +90,6 @@ MongoDB Atlas is used as the database for the application.
 
 ```bash
 git clone https://github.com/AdiDevaru/Spotify-clone.git
-cd spotify-full-stack
 ```
 
 ### 2. Setup Backend
