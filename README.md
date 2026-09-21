@@ -195,7 +195,7 @@ This project is intended for learning and portfolio purposes.
 ## Author
 
 **Adithya Devaru**
-Computer Science Engineer
+[Computer Science Engineer]
 
 [GitHub](https://github.com/AdiDevaru) ·
 [LinkedIn](https://www.linkedin.com/in/Adithya-Devaru/)
